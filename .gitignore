@@ -1,0 +1,7 @@
+# zero2prod gitignore configuration
+
+# IDE settings
+.vscode
+
+# build artifacts
+/target
