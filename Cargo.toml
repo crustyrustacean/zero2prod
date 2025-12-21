@@ -2,5 +2,11 @@
 name = "zero2prod"
 version = "0.1.0"
 edition = "2024"
+authors = ["Jeffery D. Mitchell", "<crusty.rustacean@gmail.com>"]
+description = "My code for the Zero to Production in Rust book."
+readme = "README.md"
+repository = "https://github.com/crustyrustacean/zero2prod.git"
+license = "MIT"
+publish = false
 
 [dependencies]
