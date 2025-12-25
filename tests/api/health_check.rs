@@ -1,7 +1,7 @@
 // tests/api/health_check.rs
 
 // dependencies
-use secrecy::{ExposeSecret, SecretString};
+use secrecy::SecretString;
 use sqlx::{Connection, Executor, PgConnection, PgPool};
 use std::net::TcpListener;
 use std::sync::LazyLock;
