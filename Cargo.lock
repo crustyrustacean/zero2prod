@@ -3874,7 +3874,7 @@ dependencies = [
 
 [[package]]
 name = "zero2prod"
-version = "0.7.0"
+version = "0.7.1"
 dependencies = [
  "actix-web",
  "chrono",
