@@ -3,3 +3,6 @@ application:
   host: 0.0.0.0
 database:
   require_ssl: true
+emial_client:
+  base_url: "https://send.api.mailtrap.io/api"
+  sender_email: "newsletter@jeff-mitchell.dev"
